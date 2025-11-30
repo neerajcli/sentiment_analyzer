@@ -4,7 +4,7 @@ A simple sentiment‑analysis tool built in Python. Given text input (e.g. socia
 
 ---
 
-## 🚀 Features
+## Features
 
 - Data preprocessing for text data
 - Model training pipeline (`train_model.py`)
@@ -12,14 +12,14 @@ A simple sentiment‑analysis tool built in Python. Given text input (e.g. socia
 
 ---
 
-## 🛠️ Tech Stack & Dependencies
+## Tech Stack & Dependencies
 
 - Python 3.x
 - Common NLP / ML libraries (scikit‑learn, pandas, numpy)
 
 ---
 
-## 📦 Setup & Usage
+## Setup & Usage
 
 ```bash
 git clone https://github.com/neerajcli/sentiment_analyzer.git
@@ -45,7 +45,7 @@ python main.py
 
 ---
 
-## 🧪 How It Works
+## How It Works
 
 - `data_preprocessing.py` — text cleaning
 - `vectorize_data.py` — converts text to numeric features
